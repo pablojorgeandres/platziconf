@@ -1,0 +1,9 @@
+a {
+    color: white;
+}
+footer {
+    background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
+}
+.row div a{
+    vertical-align: middle;
+}
