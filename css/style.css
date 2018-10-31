@@ -27,6 +27,12 @@ main .carousel-inner img{
 #carousel .overlay .container, #carousel .overlay .row {
     height: 100%;
 }
+#place-time img {
+    max-width: 100%;
+}
+#place-time {
+    background-color: #343a40 !important; 
+}
 footer {
     background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
 }
