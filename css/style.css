@@ -33,6 +33,9 @@ main .carousel-inner img{
 #place-time {
     background-color: #343a40 !important; 
 }
+.btn-platzi {
+    background: #8ecb3b;
+}
 footer {
     background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
 }
