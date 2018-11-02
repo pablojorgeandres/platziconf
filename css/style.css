@@ -12,6 +12,9 @@ main .carousel-inner img{
     object-fit: cover;
     filter: grayscale(70%);
 }
+h1 {
+    font-size: 3em;
+}
 #carousel {
     position: relative;
 }
