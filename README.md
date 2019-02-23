@@ -1,7 +1,4 @@
 # platziconf
-Practicando Bootstrap con Sacha
-
-Este es un proyecto de práctica con bootstrap.
-Puedes visitarlo aquí:
+Bootstrap project
 
   https://pablojorgeandres.github.io/platziconf/
